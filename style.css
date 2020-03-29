@@ -1,0 +1,12 @@
+body{
+    background-color: #232b33;
+    color: #ffffff;
+}
+.page-footer{
+    background-color: #26415c;
+    color: #ffffff !important;
+}
+
+.container{
+    margin-top: 100px;
+}
