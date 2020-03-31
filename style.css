@@ -17,5 +17,14 @@ body{
 }
 
 #btnGroupDrop1{
-    margin-right: 10px;
+    margin-right: 20px;
+    background: #EEEEEE;
+    color: #ff0000;
+    font-size: larger;
+    border: #EEEEEE;
+}
+
+.dropdown-item{
+    color: #000000;
+    font-weight: bold;
 }
