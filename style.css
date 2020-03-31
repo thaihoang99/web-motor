@@ -2,6 +2,11 @@ body{
     background-color: #232b33;
     color: #ffffff;
 }
+
+.fixed-top{
+    background-color: #EEEEEE !important;
+}
+
 .page-footer{
     background-color: #26415c;
     color: #ffffff !important;
@@ -9,4 +14,8 @@ body{
 
 .container{
     margin-top: 100px;
+}
+
+#btnGroupDrop1{
+    margin-right: 10px;
 }
